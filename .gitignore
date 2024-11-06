@@ -35,7 +35,9 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-backend/ML/{test,train,final_training.csv}
+backend/ML/test
+backend/ML/train
+backend/ML/final_training.csv
 backend/fastapi-ml/models/final_model.h5
 **/.venv/
 **/node_modules/
