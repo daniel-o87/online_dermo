@@ -18,6 +18,10 @@ body {
   color: var(--foreground);
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
+  margin: 0; /* Reset body margin */
+  padding: 0; /* Reset body padding */
+  min-height: 100vh; /* Ensure body takes full height */
+  box-sizing: border-box; /* Ensure padding/margin don't add to size */
 }
 
 @layer utilities {

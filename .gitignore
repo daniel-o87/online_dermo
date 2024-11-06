@@ -34,3 +34,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+ML/atempt1
+fastapi-ml/models/final_model.h5
+**/.venv/
+**/node_modules/
+**/__pycache__/
+**/*.pyc
+.next/
