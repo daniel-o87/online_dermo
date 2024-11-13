@@ -37,7 +37,6 @@ next-env.d.ts
 
 backend/ML/test
 backend/ML/train
-backend/ML/final_training.csv
 backend/fastapi-ml/models
 **/.venv/
 **/node_modules/
