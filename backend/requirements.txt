@@ -7,3 +7,4 @@ opencv-python
 pydicom==2.3.1
 scikit-learn
 pillow>=10.0
+pandas

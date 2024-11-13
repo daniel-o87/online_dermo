@@ -35,9 +35,10 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-backend/ML/test
-backend/ML/train
-backend/fastapi-ml/models
+backend/test
+backend/train
+backend/README.md
+backend/training_model_iterations/
 **/.venv/
 **/node_modules/
 **/__pycache__/
