@@ -163,7 +163,7 @@ def load_model():
         
         # Get model weights path
         current_dir = os.path.dirname(os.path.abspath(__file__))
-        model_path = os.path.join(current_dir, 'models', 'final_model.h5')
+        model_path = os.path.join(current_dir, 'model_iterations/attempt_1', 'final_model.h5')
         
         if not os.path.exists(model_path):
             logger.error(f"Model file not found at {model_path}")
