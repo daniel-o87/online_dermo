@@ -1,10 +1,11 @@
+// app/page.tsx
 'use client';
-import MLInterface from '@/components/MLInterface';
+import LandingPage from '@/components/LandingPage';
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-gray-50">
-      <MLInterface />
+    <main className="min-h-screen">
+      <LandingPage />
     </main>
   );
 }
