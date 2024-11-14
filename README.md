@@ -10,18 +10,18 @@ project to showcase MLOps skills
 - **Data Engineering**: PySpark, Airflow
 - **DevOps**: Docker, GitHub Actions, AWS
 
-## Architecture
+<!--- ## Architecture
 [Include a system architecture diagram here]
 
-<!--- ## Development Journey
+## Development Journey
 Follow my weekly development blog as I build this project:
 - [Week 1: Project Setup](./docs/blog/week1-initial-setup.md)
 - [Week 2: FastAPI Implementation](./docs/blog/week2-fastapi-basics.md) -->
 
 ## Project Phases
-### Phase 1: Basic Web Deployment (Current)
-- [ ] FastAPI setup
-- [ ] Next.js frontend with image upload
+### Phase 1: 
+- [x] FastAPI setup
+- [x] tailwind frontend with image upload
 - [ ] Docker containerization
 - [ ] Basic CI/CD pipeline
 [etc...]
